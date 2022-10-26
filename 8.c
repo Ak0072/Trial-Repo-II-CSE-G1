@@ -1,3 +1,5 @@
 #include<stdio.h>
+int main(){
 
-//Sample type your code.
+    return 0;
+}
